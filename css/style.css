@@ -73,6 +73,10 @@ table {
   padding: 10px;
 }
 
+.navbar_title {
+  font-size: 20px;
+}
+
 .header__menu ul {
   list-style-type: none;
   display: flex;
@@ -111,6 +115,10 @@ main {
 .shopping_list__product {
   display: flex;
   justify-content: space-between;
+}
+
+.shopping_list__product:hover {
+  color: black;
 }
 
 .shopping_list__product__left-side,
