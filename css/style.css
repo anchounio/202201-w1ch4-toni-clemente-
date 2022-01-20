@@ -1,3 +1,10 @@
+* {
+  box-sizing: border-box;
+  max-width: 400px;
+}
 
+.header {
+  background-color: #6480cb;
+}
 
 /*# sourceMappingURL=style.css.map */
